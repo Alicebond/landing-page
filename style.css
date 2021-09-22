@@ -121,7 +121,7 @@ button {
   padding-bottom: 5rem;
 }
 
-.info img {
+.info .img {
   width: 15rem;
   height: 15rem;
   border: 3px solid #3882f6;
